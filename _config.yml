@@ -1,11 +1,11 @@
 # Site settings
-author: jenniferbantakroll
-title: 
+author: Jennifer Kroll
+title: Be The Champagne
 header-img: img/home-bg.png
 email: jenniferbantakroll@gmail.com
-copyright_name: jenniferbantakroll
+copyright_name: Jennifer Kroll
 description: > # this means to ignore newlines until "baseurl:"
-  
+  In a world of beer, be the champagne
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  jbkroll
